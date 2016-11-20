@@ -1,0 +1,135 @@
+<empty> <start> Isa sa mga tindahang nagsara noong 2010 ay ang Jollibee . <end> <empty> / <empty> <start> Isa sa mga tindahan na nagsara noong 2010 ay ang Jollibee . <end> <empty>
+sa mga tindahan
+mga tindahan na
+tindahan na nagsara
+na nagsara noong
+INSERTION/UNMERGING
+<empty> <start> Ang opisinang nag-iisyu ng mga papeles ay ang NBI . <end> <empty> / <empty> <start> Ang opisinang nagiisyu ng mga papeles ay ang NBI . <end> <empty>
+Ang opisinang nagiisyu
+opisinang nagiisyu ng
+nagiisyu ng mga
+SPELLING/SUBSTITUTION
+<empty> <start> Ayon_sa marami , ang desisyong ginawa ni Duterte ay para_sa ekonomiya ng bansa . <end> <empty> / <empty> <start> Ayon_sa marami , ang desisyon na ginawa ni Duterte ay para_sa ekonomiya ng bansa . <end> <empty>
+, ang desisyon
+ang desisyon na
+desisyon na ginawa
+na ginawa ni
+INSERTION/UNMERGING
+<empty> <start> Ang mga pagkaing nakahanda ay para_sa mga bisita natin . <end> <empty> / <empty> <start> Ang mga pagkain na nakahanda ay para_sa mga bisita natin . <end> <empty>
+Ang mga pagkain
+mga pagkain na
+pagkain na nakahanda
+na nakahanda ay
+INSERTION/UNMERGING
+<empty> <start> Noong huwebes , sabi nila ay magkasing baho ang lugar na ito . <end> <empty> / <empty> <start> Noong huwebes , sabi nila ay mag kasing baho ang lugar na ito . <end> <empty>
+nila ay mag
+ay mag kasing
+mag kasing baho
+kasing baho ang
+INSERTION/UNMERGING
+<empty> <start> Ang mga sinabi ng guro ay mas konektado kumpara_sa estudyante . <end> <empty> / <empty> <start> Ang mga sinabi ng guro ay maskonektado kumpara_sa estudyante . <end> <empty>
+guro ay maskonektado
+ay maskonektado kumpara_sa
+maskonektado kumpara_sa estudyante
+SPELLING/SUBSTITUTION
+<empty> <start> Tuwing biyernes , kumukuha kami ng mga datos para_sa aming riserts . <end> <empty> / <empty> <start> Tuwing biyernes , kumukuha kami nang mga datos para_sa aming riserts . <end> <empty>
+kumukuha kami nang
+kami nang mga
+nang mga datos
+SPELLING/SUBSTITUTION
+<empty> <start> Ayon_kay Jose , isasama rin ang kanyang mga kapatid sa Palawan . <end> <empty> / <empty> <start> Ayon_kay Jose , isasama din ang kanyang mga kapatid sa Palawan . <end> <empty>
+, isasama din
+isasama din ang
+din ang kanyang
+SPELLING/SUBSTITUTION
+<empty> <start> Ang paglabas ng mga bagong laro sa kompyuter ay naging sanhi ng trapik . <end> <empty> / <empty> <start> Ang paglabas nang mga bagong laro sa kompyuter ay naging sanhi ng trapik . <end> <empty>
+Ang paglabas nang
+paglabas nang mga
+nang mga bagong
+SPELLING/SUBSTITUTION
+<empty> <start> Kumakain ng mga masarap na putahe ang mga bisita . <end> <empty> / <empty> <start> Kumakain nang mga masarap na putahe ang mga bisita . <end> <empty>
+<start> Kumakain nang
+Kumakain nang mga
+nang mga masarap
+SPELLING/SUBSTITUTION
+<empty> <start> Sumisigaw ang mga taong hindi nabigyan ng hustisya sa labas ng Korte Suprema . <end> <empty> / <empty> <start> Sumisigaw ang mga tao na hindi nabigyan ng hustisya sa labas ng Korte Suprema . <end> <empty>
+ang mga tao
+mga tao na
+tao na hindi
+na hindi nabigyan
+INSERTION/UNMERGING
+<empty> <start> Sinabi ng mga imbestigador na magiging mas malaking problema ang nangyari kahapon . <end> <empty> / <empty> <start> Sinabi ng mga imbestigador na magiging masmalaking problema ang nangyari kahapon . <end> <empty>
+na magiging masmalaking
+magiging masmalaking problema
+masmalaking problema ang
+SPELLING/SUBSTITUTION
+<empty> <start> Wala sa plano nilang umalis ngunit sila ay napilitan . <end> <empty> / <empty> <start> Wala sa plano nila na umalis ngunit sila ay napilitan . <end> <empty>
+sa plano nila
+plano nila na
+nila na umalis
+na umalis ngunit
+INSERTION/UNMERGING
+<empty> <start> Sa lahat ng pagkakataon , dahan-dahang naging masama ang panahon ngayong buwan . <end> <empty> / <empty> <start> Sa lahat ng pagkakataon , dahan-dahan naging masama ang panahon ngayong buwan . <end> <empty>
+pagkakataon , dahan-dahan
+, dahan-dahan naging
+dahan-dahan naging masama
+SPELLING/SUBSTITUTION
+<empty> <start> Bumili ng bisikleta ang magkapatid na si Jon at Jonel . <end> <empty> / <empty> <start> Bumili nang bisikleta ang magkapatid na si Jon at Jonel . <end> <empty>
+<start> Bumili nang
+Bumili nang bisikleta
+nang bisikleta ang
+SPELLING/SUBSTITUTION
+<empty> <start> Naging depende sa mga pulitiko ang mga mahihirap at sabi ng marami ay mali ito . <end> <empty> / <empty> <start> Naging depende sa mga pulitiko ang mga mahihirap at sabi nang marami ay mali ito . <end> <empty>
+at sabi nang
+sabi nang marami
+nang marami ay
+SPELLING/SUBSTITUTION
+<empty> <start> Ang kanyang mayamang bokabularyo ay naging magandang katangian para_sa kanyang pag-aaral . <end> <empty> / <empty> <start> Ang kanyang mayaman na bokabularyo ay naging maganda na katangian para_sa kanyang pag-aaral . <end> <empty>
+Ang kanyang mayaman
+kanyang mayaman na
+mayaman na bokabularyo
+na bokabularyo ay
+ay naging maganda
+naging maganda na
+maganda na katangian
+na katangian para_sa
+INSERTION/EXTRA WORD/UNMERGING
+<empty> <start> Nag-eensayo ang mga atleta para_sa karera ngayong disyembre . <end> <empty> / <empty> <start> Nageensayo ang mga atleta para_sa karera ngayong disyembre . <end> <empty>
+<empty> <start> Nageensayo
+<start> Nageensayo ang
+Nageensayo ang mga
+SPELLING/SUBSTITUTION
+<empty> <start> Si Torjack ay nag-iwan ng mga kagamitan para_sa kanyang mga kapatid . <end> <empty> / <empty> <start> Si Torjack ay nagiwan ng mga kagamitan para_sa kanyang mga kapatid . <end> <empty>
+Torjack ay nagiwan
+ay nagiwan ng
+nagiwan ng mga
+SPELLING/SUBSTITUTION
+<empty> <start> Si Juan ang unang nag-angat ng bandila sa ating bansa . <end> <empty> / <empty> <start> Si Juan ang unang nagangat ng bandila sa ating bansa . <end> <empty>
+ang unang nagangat
+unang nagangat ng
+nagangat ng bandila
+SPELLING/SUBSTITUTION
+<empty> <start> Bumili ang bata ng laruan . <end> <empty> / <empty> <start> Bumili si bata ng laruan . <end> <empty>
+<start> Bumili si
+Bumili si bata
+si bata ng
+SPELLING/SUBSTITUTION
+<empty> <start> Hindi sila masaya sa ginagawa ng pamahalaan . <end> <empty> / <empty> <start> Hindi sila masaya sa ginagawa ng pama halaan . <end> <empty>
+ginagawa ng pama
+ng pama halaan
+pama halaan .
+halaan . <end>
+INSERTION/UNMERGING
+<empty> <start> Bumili ang bata ng laruan . <end> <empty> / <empty> <start> Bumili bata ng laruan . <end> <empty>
+<start> Bumili bata
+Bumili bata ng
+DELETION/MERGING
+<empty> <start> Sabi nila , ang mga nahuling kriminal ay nakakulong na . <end> <empty> / <empty> <start> Sabi nila , ang ang mga nahuling kriminal ay nakakulong na . <end> <empty>
+, ang ang
+ang ang mga
+DELETION/MERGING
+<empty> <start> Titingnan niya raw ang mga datos na makukuha sa Twitter . <end> <empty> / <empty> <start> Titignan niya raw ang mga datos na makukuha sa Twitter . <end> <empty>
+<empty> <start> Titignan
+<start> Titignan niya
+Titignan niya raw
+SPELLING/SUBSTITUTION
